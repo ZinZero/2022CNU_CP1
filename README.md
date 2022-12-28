@@ -1,1 +1,5 @@
-# 2022CNU_CP1
+# CT_CNU2021
+- ChungNam National University
+- Computer Science Engineering
+- 2022 Fall semester
+- Professor : KI IL KIM
